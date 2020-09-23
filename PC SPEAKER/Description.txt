@@ -1,0 +1,18 @@
+Class for using the PC Speaker using VB and Assembly
+
+Use it as you like and at your own risks. I am not responsible for
+anything. After all, this is assembly! But give me a little credit
+if you use this class in your apps. I am encouraged by the great
+submissions to planet-source-code showing the techniques to use
+assembly in VB. I decided to make something useful using assembly.
+
+There is a API function in WinNT based systems - BeepAPI function.
+You can create sounds of any frequency and for duration by using
+that function. But the BeepAPI function in Win98 is very limited.
+It can't do it. So, I made this class that can do the same work
+in Win98 also. I haven't tested this code in other machines. But
+it should work. Please, report to me if it doesn't work. My email
+address is sakib039@hotmail.com
+
+Don't forget to check all the other Assembly+VB submissions in
+planet-source-code. And comments and votes on this thing are welcome.
